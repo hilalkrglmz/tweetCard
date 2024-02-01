@@ -13,7 +13,7 @@ https://github.com/hilalkrglmz/tweetCard/assets/140657703/c80d51dc-e480-4b2d-906
 </head>
 <body>
     <header>
-        <h1>Twwetcard</h1>
+        <h1>Tweetcard</h1>
     </header>
     <div class="container">
         <h2>About Project</h2>
